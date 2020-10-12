@@ -1,8 +1,5 @@
-remote_theme: thelehhman/texture
-
-texture:
-  title: Nesios Stuff
+theme: jekyll-theme-slate
+  title: Nesios Stuff Addon
   tagline: Ressource pack
 
 
-theme: jekyll-theme-slate
