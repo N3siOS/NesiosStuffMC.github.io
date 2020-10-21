@@ -1,4 +1,3 @@
-#
 
 ![large logo](img/first_screen.jpg)
 ![version](https://img.shields.io/github/v/release/N3siOS/Nesios_Stuff_Addon?label=Last%20version)
