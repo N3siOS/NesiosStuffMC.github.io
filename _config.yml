@@ -3,9 +3,6 @@ author: Nesios
 email: "nesiosdev@outlook.fr"
 minima:
 social_links:
- twitter_username: N9SiOs
- github_username: N3siOS
-header_pages:
- - about.md
- - download.md
+ twitter: N9SiOs
+ github: N3siOS
 theme: minima
