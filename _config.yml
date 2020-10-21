@@ -6,4 +6,6 @@ author:
   social_links:
     twitter: N9SiOs
     github: N3siOS
-
+header_pages:
+ - about.md
+ - download.md
