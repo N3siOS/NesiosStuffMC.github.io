@@ -1,8 +1,4 @@
-theme: minima
 title: "Nesios Stuff Addon"
-author:
-  name: N3siOS
-  email: nesiosdev@outlook.fr
 minima:
   social_links:
     twitter: N9SiOs
@@ -10,3 +6,4 @@ minima:
 header_pages:
  - about.md
  - download.md
+theme: minima
