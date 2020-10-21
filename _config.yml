@@ -2,5 +2,5 @@ theme: minima
 title: "Nesios Stuff Addon"
 header_pages:
   - about.md
-  - Download.md
+  - download.md
 
