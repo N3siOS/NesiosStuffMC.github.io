@@ -1,10 +1,10 @@
 theme: minima
 title: "Nesios Stuff Addon"
 minima:
-    twitter: Nesios
-    github: Nesios
-
 header_pages:
   - about.md
   - download.md
+  social_links:
+    twitter: Nesios
+    github: Nesios
 
