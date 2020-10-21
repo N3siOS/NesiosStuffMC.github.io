@@ -1,6 +1,7 @@
-# Changelog
+# Changelog 📢
 
 ![version](https://img.shields.io/github/v/release/N3siOS/Nesios_Stuff_Addon?label=Last%20version)
+![beta](https://img.shields.io/github/v/release/N3siOS/Nesios_Stuff_Addon?color=orange&include_prereleases&label=Last%20beta%20version)
 
 ## Version 1.1.4 **Release**
 
