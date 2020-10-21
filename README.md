@@ -1,5 +1,5 @@
 
-![version](https://img.shields.io/github/v/release/N3siOS/Nesios_Stuff_Addon?label=Last%20version)
+
 ![progress](https://img.shields.io/badge/Progress-95%25-blueviolet)
 ![Minecraft Version](https://img.shields.io/badge/Minecraft%20Version-1.16.3-inactive)
 
