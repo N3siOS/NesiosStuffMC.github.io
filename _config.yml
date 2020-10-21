@@ -1,10 +1,9 @@
 theme: minima
 title: "Nesios Stuff Addon"
-minima:
-header_pages:
-  - about.md
-  - download.md
+author:
+  name: N3siOS
+  email: nesiosdev@outlook.fr
   social_links:
-    twitter: Nesios
-    github: Nesios
+    twitter: N9SiOs
+    github: N3siOS
 
