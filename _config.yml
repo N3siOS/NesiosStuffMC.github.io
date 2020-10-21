@@ -1,9 +1,7 @@
 title: "Nesios Stuff Addon"
-author:
- name: Nesios
- email: "nesiosdev@outlook.fr"
+author: Nesios
+email: "nesiosdev@outlook.fr"
 minima:
- skin: dark
 social_links:
  twitter_username: N9SiOs
  github_username: N3siOS
