@@ -1,4 +1,4 @@
-![large logo](https://github.com/N3siOS/Nesios_Stuff_Addon/img/first_screen.jpg)
+![large logo](https://github.com/N3siOS/NesiosStuffMC.github.io/blob/main/img/first_screen.jpg)
 ![version](https://img.shields.io/github/v/release/N3siOS/Nesios_Stuff_Addon?label=Last%20version)
 ![progress](https://img.shields.io/badge/Progress-95%25-blueviolet)
 ![Minecraft Version](https://img.shields.io/badge/Minecraft%20Version-1.16.3-inactive)
