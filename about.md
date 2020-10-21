@@ -1,4 +1,3 @@
-# Changelog 📢
 
 ## Version 1.1.4 **Release**
 
@@ -54,5 +53,5 @@
         - Compatibility for new 1.16.2 Version.
 
         - Compatibility for 1.14 versions.
-        
+
         - Rework Logo pack.
