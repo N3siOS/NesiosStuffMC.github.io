@@ -5,7 +5,7 @@
 
 ## Version 1.1.4 **Release**
 
-- **List of changes :**
+    - List of changes :
 
         - Reworked preview texture for :
 
@@ -17,7 +17,7 @@
 
 ## Version 1.1.3 **Preview**
 
-- **List of changes :**
+    - List of changes :
 
             - Add texture for :
 
