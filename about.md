@@ -3,6 +3,26 @@
 ![version](https://img.shields.io/github/v/release/N3siOS/Nesios_Stuff_Addon?label=Last%20version)
 ![beta](https://img.shields.io/github/v/release/N3siOS/Nesios_Stuff_Addon?color=orange&include_prereleases&label=Last%20beta%20version)
 
+
+## Version 1.1.5 **Release**
+
+    - List of changes :
+
+        - Add Iron armor item
+
+        - Add Golden armor item
+
+        - Added armors for older versions
+
+    - Corrections :
+
+        - Rework Netherite Helmet and chestplate item
+
+        - Updated the netherite sword that had one missing pixel
+
+        - Missing pixel on iron armor
+
+
 ## Version 1.1.4 **Release**
 
     - List of changes :
