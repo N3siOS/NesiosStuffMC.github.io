@@ -1,6 +1,6 @@
 ![banner](/img/ProfileBanner.png)
 
-![progress](https://img.shields.io/badge/Progress-99%25-blueviolet)
+![progress](https://img.shields.io/badge/Progress-100%25-blueviolet)
 ![Minecraft Version](https://img.shields.io/badge/Minecraft%20Version-1.16.3-inactive)
 
 Resource pack for Minecraft Java Edition that modifies only basic weapons, Armor and tools.
