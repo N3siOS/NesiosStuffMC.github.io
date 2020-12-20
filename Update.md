@@ -3,10 +3,12 @@
 Next pack update that adds some changes to the colors and textures of the items listed below.
 
 ### **Golden Pickaxe Preview 1.1.6a**
+Add a point on the top of the golden pickaxe to be in harmony with the models of the axe.
 
 ![screenshot](/img/golden_pickaxe_pre.png)
 
 ### **Stone Pickaxe Preview 1.1.6a** (other possible changes)
+Changes to the top of the pick to avoid confusion with the stone hoe.
 
 ![screenshot](/img/stone_pickaxe_pre.png)
 
@@ -22,4 +24,6 @@ Next pack update that adds some changes to the colors and textures of the items 
 
 ![screenshot](/img/crossbow_pre.png)
 
-Logo pack and graphic identity.
+**Wood Color palette Preview 1.1.6b**
+
+![screenshot](/img/Wood_Color_pre.png)
