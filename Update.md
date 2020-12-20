@@ -2,14 +2,11 @@
 
 Next pack update that adds some changes to the colors and textures of the items listed below.
 
-# 📍List of actual changes : 
+### **Golden Pickaxe Preview 1.1.6a**
 
-Modifications of all textures for :
-
-**Golden Pickaxe Preview 1.1.6a**
 ![screenshot](/img/golden_pickaxe_pre.png)
 
-**Stone Pickaxe** (other possible changes)
+### **Stone Pickaxe Preview 1.1.6a** (other possible changes)
 
 ![screenshot](/img/stone_pickaxe_pre.png)
 
