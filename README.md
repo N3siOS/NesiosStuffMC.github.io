@@ -1,5 +1,4 @@
 ![DownloadTitle](/img/ProfileBanner.png)
-![DownloadTitle](/img/first_screen.png)
 
 Resource pack for Minecraft Java Edition that modifies only basic weapons, Armor and tools.
 
