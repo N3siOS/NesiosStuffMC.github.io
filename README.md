@@ -10,7 +10,7 @@ Go to the [screenshot](screen.md) page to see all items change.
 
 ## **INFORMATIONS**
 
-- **Snapshot 1.17 :** first overview and discussion on the next update available on [GitHub Discussions](https://github.com/N3siOS/Nesios_Stuff_Addon/discussions/3).
+- **Snapshot 1.17 :** first overview and discussion on the next update available on [GitHub Discussions](https://github.com/N3siOS/Nesios_Stuff_Addon/discussions/).
 
 - **Public Task Board :**  [Trello](https://trello.com/b/YKjshhmy/public-task-board).
 
