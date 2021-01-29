@@ -3,6 +3,24 @@
 ![version](https://img.shields.io/github/v/release/N3siOS/Nesios_Stuff_Addon?label=Last%20version)
 ![beta](https://img.shields.io/github/v/release/N3siOS/Nesios_Stuff_Addon?color=orange&include_prereleases&label=Last%20beta%20version)
 
+## Version 1.1.6b **Preview**
+
+    - List of changes :
+
+        - Redesign All textures for netherite, diamond, gold, stone and wood pickaxe.
+
+        - Bow and crossbow texture.
+
+        - Logo pack and graphic identity.
+
+        - Redesign of the netherite axe textures.
+
+        - New design for the diamond axe.
+
+        - Improvement for iron axe texture.
+        
+        - Little change for golden sword texture.
+
 
 ## Version 1.1.5 **Release**
 
@@ -50,9 +68,9 @@
                 - Golden Armor
 
             - Corrections :
-            
+
                 - Rework Enchanted effect.
-                
+
                 - Improve diamond sword texture
 
 ## Version 1.0.2 **Release**
@@ -60,7 +78,7 @@
     - Corrections :
 
         - Rework flint and steel.
-        
+
         - Improve diamond helmet and diamond boots.
 
 ## Version 1.0.0 **Release**
@@ -68,9 +86,9 @@
     - List of changes :
 
         - Addition of the degradation of weapons and tools.
-        
+
         - Redesign textures of tools/weapons.
-        
+
         - Change color of enchanted glint effect.
 
 ## Version 1.0.1 **Release**
