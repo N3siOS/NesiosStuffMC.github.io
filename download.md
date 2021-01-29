@@ -1,12 +1,12 @@
 For 1.17 Snapshot version :
 
-link : 
+[Nesios Stuff Add-on 1.1.6b](https://github.com/N3siOS/Nesios_Stuff_Addon/releases/download/v1.1.6b/Nesios-Stuff-Add-on-1.1.6b-Snapshot.zip)
 
-For 1.16.2 and 1.16.4 version :
+For 1.16.2 -> 1.16.5 version :
 
-link : 
+[Nesios Stuff Add-on 1.1.6b](https://github.com/N3siOS/Nesios_Stuff_Addon/releases/download/v1.1.6b/Nesios-Stuff-Addon-1.1.6b.zip)
 
-For 1.16 and 1.16.1 version :
+For 1.16 -> 1.16.1 version :
 
 link :
 
